@@ -1,1 +1,1 @@
-![101](https://c.tenor.com/pOZEcnrVnrsAAAAi/cool-bro-lucadosus.gif)
+![101](https://thebarcodepub.com/assets/images/loading.gif)
