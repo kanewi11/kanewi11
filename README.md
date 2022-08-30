@@ -1,2 +1,2 @@
 # Hi, my name is Nikita! 👋
-![loading response](https://thebarcodepub.com/assets/images/loading.gif)
+![loading response](loading-response.gif)
