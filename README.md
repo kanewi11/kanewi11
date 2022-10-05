@@ -1,2 +1,5 @@
 # Hi, my name is Nikita! 👋
-![loading response](loading-response.gif)
+
+<div id="header" align="center">
+  <img src="/loading-response.gif" width="100"/>
+</div>
