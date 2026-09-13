@@ -10,10 +10,13 @@
             [INFO]  | Loading profile...
             [OK]    | Current profile - kanewi11
             [DEBUG] | "welcome to my profile"
+            ------------------------------------------------
+            ㅤ
+            kanewi11 ~ > sudo systemctl status life.service
+            ● life.service - Life
+             Loaded: loaded (/usr/lib/systemd/system/life.service; enabled; preset: enabled)
+             Active: active (running)
         </pre>
-        <a href="https://github.com/kanewi11">
-            <img src="https://komarev.com/ghpvc/?username=kanewi11&style=flat-square&color=blue" alt=""/>
-        </a>
     </div>
 </div>
 
