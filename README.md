@@ -16,6 +16,9 @@
             ● life.service - Life
              Loaded: loaded (/usr/lib/systemd/system/life.service; enabled; preset: enabled)
              Active: active (running)
+            ㅤ
+            kanewi11 ~ > cat contacts.txt
+            TG: @pause_user
         </pre>
     </div>
 </div>
